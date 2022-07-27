@@ -1,0 +1,39 @@
+.alert__runout{
+    background-color: black;
+    width: 40%;
+    height: 100px;
+    margin: 10px auto;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart__amount{
+    width: 70px;
+    border:none;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+
+.cart__size{
+    /* color: brown !important; */
+    padding-top: 10px;
+}
+
+.cart__submit{
+    width: 100px;
+    background-color: black;
+    border: none;
+    color: white;
+    margin: 10px 0;
+    padding: 10px;
+    /* letter-spacing: 4px; */
+}   
+
+.order__item span{
+    padding: 0 10px;
+    font-size: small;
+    color: green !important;
+    font-weight: bold;
+}
