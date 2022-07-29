@@ -51,8 +51,8 @@
                     {{ csrf_field() }}
                     @method('put')
                     <button href="" class="btn btn-warning" data-abc="true"> <i class="fa fa-chevron-left"></i>
-                        Back to
-                        orders</button>
+                        Cancel
+                        </button>
                 </form>
             @endif
         </div>
